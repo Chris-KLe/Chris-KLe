@@ -34,7 +34,7 @@
 
 ### 🌟 Featured Projects
 - [Pomodoro Timer App](https://github.com/Chris-KLe/pomodoro-timer-app) ⏱️ – A simple Python desktop timer app with stats tracking.
-- *(Add more when you have them)*
+- [Brick Breaker Meme](https://github.com/Chris-KLe/24021539_LeTrungKien-Brick-Breaker) 🎮 – A funny game which is made by SDL2 
 
 ---
 
