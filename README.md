@@ -3,7 +3,7 @@
   <img src="https://miniso.com.gr/15657-thickbox_default/we-bare-bears-collection-round-seat-cushionice-bear.jpg" alt="Banner" width="25%">
 </p>
 
-<h1 align="center">Hi there 👋, I'm Chris Le</h1>
+<h1 align="center">Hi there 👋, I'm Kien Le (Chris)</h1>
 <h3 align="center">🌊 Oceanography Student | 📊 Data & Modeling Enthusiast | 💻 Python Learner</h3>
 
 ---
